@@ -1,0 +1,5 @@
+com\example\modelo\Aluno.class
+com\example\Main.class
+com\example\dao\EmprestimoDAO.class
+com\example\modelo\Emprestimo.class
+com\example\modelo\Publicacao.class
